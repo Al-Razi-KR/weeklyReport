@@ -2,7 +2,7 @@
 
 A weekly and monthly geopolitical analysis project, written through a left-critical, structuralist lens.
 
-This is a personal project by a leftist and member of [Reductio](https://reductio.in), a leftist collective based in Kerala, India. The goal is simple: cut through the noise of mainstream geopolitical coverage and produce analysis that asks who holds power, whose interests are being served, and what history and material conditions are actually driving events.
+This is a personal project by a leftist and member of [Reductio](https://reductio.blog), a leftist collective based in Kerala, India. The goal is simple: cut through the noise of mainstream geopolitical coverage and produce analysis that asks who holds power, whose interests are being served, and what history and material conditions are actually driving events.
 
 Every report is fact-checked against wire services and cross-referenced with expert and left analytical sources. Our team reviews and verifies each report before publication — but if you spot an error, a missing source, or a framing that needs challenging, please open an issue. Critical engagement is welcome and encouraged.
 
