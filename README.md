@@ -11,13 +11,14 @@ Automating parts of the research pipeline is a future project. For now, everythi
 ---
 
 ## Latest Report
-[UPDATE THIS LINK EACH WEEK]
+[Week 15, 2026 — US-Iran Ceasefire, US-China Tariff War, Russia Claims Luhansk](geopolitics-agent/reports/weekly/2026-W15/2026-W15.md)
 
 ## Archive
 
 ### Weekly
 | Week | Report | Key Topics |
 |------|--------|------------|
+| 2026-W15 | [2026-W15](geopolitics-agent/reports/weekly/2026-W15/2026-W15.md) | US-Iran ceasefire, petrodollar challenge, US-China tariff war, Russia-Luhansk |
 
 ### Monthly
 | Month | Report | Key Topics |
