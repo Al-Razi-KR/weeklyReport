@@ -3,8 +3,9 @@
 # Ignore everything at root
 /*
 
-# Allow .gitignore itself
+# Allow .gitignore and README at root
 !.gitignore
+!README.md
 
 # Un-ignore the reports tree
 !geopolitics-agent/
