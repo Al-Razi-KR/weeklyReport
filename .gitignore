@@ -1,0 +1,29 @@
+# Whitelist approach — ignore everything, then allow only report .md files
+
+# Ignore everything at root
+/*
+
+# Allow .gitignore itself
+!.gitignore
+
+# Un-ignore the reports tree
+!geopolitics-agent/
+/geopolitics-agent/*
+!geopolitics-agent/reports/
+/geopolitics-agent/reports/*
+!geopolitics-agent/reports/weekly/
+!geopolitics-agent/reports/monthly/
+
+# Un-ignore week/month named subfolders (e.g. 2026-W15/, 2026-04/)
+/geopolitics-agent/reports/weekly/*
+/geopolitics-agent/reports/monthly/*
+!geopolitics-agent/reports/weekly/*/
+!geopolitics-agent/reports/monthly/*/
+
+# Allow only .md files inside those subfolders
+!/geopolitics-agent/reports/weekly/*/*.md
+!/geopolitics-agent/reports/monthly/*/*.md
+
+# Keep empty directories tracked (must come after wildcards)
+!geopolitics-agent/reports/weekly/.gitkeep
+!geopolitics-agent/reports/monthly/.gitkeep
