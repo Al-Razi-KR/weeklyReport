@@ -11,13 +11,14 @@ Automating parts of the research pipeline is a future project. For now, everythi
 ---
 
 ## Latest Report
-[Week 16, 2026 — Lebanon War Escalation, Germany-Ukraine Pact, IMF Downgrade](geopolitics-agent/reports/weekly/2026-W16/2026-W16.md)
+[Week 17, 2026 — US Naval Blockade of Iran, Ukraine 28-Point Plan, Trump-Xi Summit Delayed](geopolitics-agent/reports/weekly/2026-W17/2026-W17.md)
 
 ## Archive
 
 ### Weekly
 | Week | Report | Key Topics |
 |------|--------|------------|
+| 2026-W17 | [2026-W17](geopolitics-agent/reports/weekly/2026-W17/2026-W17.md) | US naval blockade Iran, Strait re-closure, Ukraine 28-point plan, Trump-Xi May summit, Sudan crisis |
 | 2026-W16 | [2026-W16](geopolitics-agent/reports/weekly/2026-W16/2026-W16.md) | Lebanon ceasefire collapse, Israel South Lebanon Zone, Germany-Ukraine pact, IMF WEO downgrade, PNTR investigation |
 | 2026-W15 | [2026-W15](geopolitics-agent/reports/weekly/2026-W15/2026-W15.md) | US-Iran ceasefire, petrodollar challenge, US-China tariff war, Russia-Luhansk |
 
